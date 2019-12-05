@@ -1,0 +1,38 @@
+  
+# Cleo Saputra Black List For Pihole
+
+# Secure Your Internet Connection With Cleo Saputra Black List
+
+# Virus, Malware, Worm, Spyware, Addware, Ransomware, Ads, Scam, Tracker, Porn, Etc
+
+# < < < ========================= > > >
+
+# Buy me a coffee via paypal cleo.saputra@gmail.com
+
+# < < < ========================= > > >
+
+
+# Regex & Wildcard blocking - PIHOLE
+
+^(.+[-_.])??adse?rv(er?|ice)?s?[0-9]*[-.]
+^(.+[-_.])??m?ad[sxv]?[0-9]*[-_.]
+^(.+[-_.])??telemetry[-.]
+^(.+[-_.])??xn--
+^(.+[-_.])??zlhlk[-.]
+^adim(age|g)s?[0-9]*[-_.]
+^adtrack(er|ing)?[0-9]*[-.]
+^advert(s|is(ing|ements?))?[0-9]*[-_.]
+^aff(iliat(es?|ion))?[-.]
+^analytics?[-.]
+^banners?[-.]
+^beacons?[0-9]*[-.]
+^count(ers?)?[0-9]*[-.]
+^ifota?[-.]
+^ifota?[0-9]*[-.]
+^ota?[-.]
+^ota?[0-9]*[-.]
+^pixels?[-.]
+^stat(s|istics)?[0-9]*[-.]
+^track(ers?|ing)?[0-9]*[-.]
+^traff(ic)?[-.]
+^zlhlk?[-.]
