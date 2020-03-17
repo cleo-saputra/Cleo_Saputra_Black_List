@@ -132,13 +132,8 @@ ctldl.windowsupdate.com
 displaycatalog.mp.microsoft.com
 dl.delivery.mp.microsoft.com
 sls.update.microsoft.com
-# Network connectivity:
-msftncsi.com
-dns.msftncsi.com
-ipv6.msftncsi.com
-www.msftncsi.com
+
 # Miscellaneous:
-answers.microsoft.com
-support.microsoft.com
+
 settings-win.data.microsoft.com
-g.live.com
+
