@@ -1,0 +1,47 @@
+# Cleo Saputra Black List For Pihole
+
+# Secure Your Internet Connection With Cleo Saputra Black List
+
+# Virus, Malware, Worm, Spyware, Addware, Ransomware, Ads, Scam, Tracker, Porn, Etc
+
+# < < < ========================= > > >
+
+# Buy me a coffee via paypal cleo.saputra@gmail.com
+
+# < < < ========================= > > >
+
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+
+#=====================================
+
+app4742.nonameroute20.live
+padsreds.com
+qxcd.toysgarage.it
+ladsblue.com
+barerconsenma.info
+s.optvn.com
+www1.ramirocampos.pro
+www1.debrahinton.pro
+www1.bethanyharrell.pro
+your-best-prise1.life
+www1.lucienmann.pro
+rebrand.ly
+i0.wp.com
+i1.wp.com
+dufoptipsi.pro
+binomoworld.com
